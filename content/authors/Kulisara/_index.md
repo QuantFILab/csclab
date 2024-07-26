@@ -18,7 +18,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Financial Mathematics and Actuarial Mathemtics
+bio: ไอ้พี่ปุ๊กกกก
 
 interests:
   - Financial Mathematics 
