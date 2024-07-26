@@ -8,8 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Computational Statistical Science Laboratory
       image:
         filename: welcome.jpg
       text: |
