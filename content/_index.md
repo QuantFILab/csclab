@@ -13,9 +13,9 @@ sections:
       text: |
         <br>
         
-The Computational and Statistical Science Laboratory has been a premier research group and laboratory for computational and statistical science research, teaching, and practice since its founding in 2024 at Rajamangala University of Technology Suvarnabhumi.
+          The Computational and Statistical Science Laboratory has been a premier research group and laboratory for computational and statistical science research, teaching, and practice           since its founding in 2024 at Rajamangala University of Technology Suvarnabhumi.
 
-Our mission is to generate novel ideas in theoretical statistics and apply them to real-world data analysis. We are dedicated to advancing knowledge and practice in computational and statistical sciences through rigorous research, comprehensive teaching, and practical applications.
+          Our mission is to generate novel ideas in theoretical statistics and apply them to real-world data analysis. We are dedicated to advancing knowledge and practice in                       computational and statistical sciences through rigorous research, comprehensive teaching, and practical applications.
    
   - block: markdown
     content:
