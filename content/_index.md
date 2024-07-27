@@ -16,15 +16,6 @@ sections:
         
         The **Computational and Statistical Science Laboratory** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
    
-   - block: markdown
-    content:
-      title: |
-        x
-      text: |
-         xx
-    design:
-      columns: '1'
-    
   - block: collection
     content:
       title: Latest Preprints
