@@ -33,7 +33,7 @@ sections:
       page_type: post
     design:
       view: card
-      columns: '5'
+      columns: '3'
 
   - block: collection
     content:
