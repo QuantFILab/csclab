@@ -21,8 +21,6 @@ sections:
       title: |
         x
       text: |
-        <br>
-
          xx
     design:
       columns: '1'
