@@ -13,7 +13,7 @@ sections:
       text: |
         <br>
         
-        The **Computational and Statistical Science Laboratory** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The **Computational and Statistical Science Laboratory** has been a center of excellence for computational and statistical science research, teaching, and practice since its founding in 2024.
    
   - block: markdown
     content:
