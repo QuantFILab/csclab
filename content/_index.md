@@ -12,8 +12,7 @@ sections:
         filename: welcome.jpg
       text: |
         <br>
-        
-          The Computational and Statistical Science Laboratory has been a premier research group and laboratory for computational and statistical science research, teaching, and practice           since its founding in 2024 at Rajamangala University of Technology Suvarnabhumi.
+          ศูนย์ปฎิบัติการวิทยาการการคำนวณและสถิติก่อตั้งขึ้นในปี พ.ศ. 2567 เป็นกลุ่มวิจัยที่เน้นการวิจัย การสอน และการปฎิบัติการทางด้าน วิทยาการการคำนวณเชิงสถิติ โดยปัจจุบันศูนย์ฎิบัติการตั้งอยู่ที่คณะวิทยาศาสตร์และเทคโนโลยี                 มหาวิทยาลัยเทคโนโลยีราชมงคลสุวรรณภูมิ วิทยาเขตพระนครศรีอยุธยา-หันตรา
    
   - block: markdown
     content:
