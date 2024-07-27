@@ -26,6 +26,10 @@ sections:
         - Functional Data Analysis
 
         We strive to foster a collaborative environment where researchers and students can innovate and excel in their respective areas of expertise.
+        - Agriculture
+        - Animal Science
+        - Health Science
+        - Bussiness and Management
 
   - block: collection
     content:
