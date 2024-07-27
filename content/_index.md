@@ -8,13 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        Computational Statistical Science Laboratory
+        Computational and Statistical Science Laboratory
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The **Computational and Statistical Science Laboratory** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
   
   - block: collection
     content:
