@@ -8,8 +8,6 @@ sections:
     content:
       title: |
         Computational and Statistical Science Laboratory
-      image:
-        filename: welcome.jpg
    
   - block: markdown
     content:
