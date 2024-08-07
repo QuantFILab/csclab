@@ -1,7 +1,7 @@
 ---
 title: "Time Series Forecasting Models for Predicting Export Volumes of Thailand’s Ribbed Smoked Sheets"
 authors:
-- Kulisara Marupanthorn
+- Uparittha Intarasat
 - Nassamon Bootwisas
 date: "2022-04-27T00:00:00Z"
 doi: ""
