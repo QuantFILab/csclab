@@ -1,29 +1,30 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Pasin Marupanthorn
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Pasin
+last_name: Marupanthorn
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Researcher in Financial Mathematics and Actuarial Mathematics
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Unknown
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Financial Mathematics and Actuarial Mathemtics
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Financial Mathematics 
+  - Actuarial Mathemtics
+  - Stochastic Processses
+  - Monte Carlo Simulation
 
 education:
   courses:
@@ -44,16 +45,13 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: 'quantfilab@gmail.com'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=NcoXQYYAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/QuantFILab
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -61,7 +59,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'quantfilab@gmail.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -72,6 +70,4 @@ user_groups:
   - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Pasin Marupanthorn is an applied mathematician specializing in actuarial and financial mathematics. His role at CSS is to provide the application of statistical methods in risk management and the business field. You can visit his personal website at (https://quantfilab.github.io/pmarupanthorn/)[https://quantfilab.github.io/pmarupanthorn/].
