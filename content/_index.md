@@ -34,16 +34,15 @@ sections:
 
   - block: collection
     content:
-      title: Latest Preprint
-      text: ""
-      count: 5
+      title: Recent publication
+      count: 6
       filters:
         folders:
-          - publication
-        publication_type: ['article']
+          - event
     design:
-      view: citation
-      columns: '1'
+      view: article-grid
+      columns: 3
+      fill_image: false
 
   - block: markdown
     content:
