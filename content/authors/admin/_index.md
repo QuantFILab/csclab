@@ -43,6 +43,7 @@ education:
     - course: BSc Applied Mathematics with Physics
       institution: Thammasat University
       year: 2014
+      
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
