@@ -21,22 +21,21 @@ organizations:
 bio: ''
 
 interests:
-  - Financial Mathematics 
-  - Actuarial Mathemtics
-  - Stochastic Processses
-  - Monte Carlo Simulation
-
+  - Stem Cell Biology and differentiation
+  - Veterinary Medicine
+  - Herbal Medicine and application
+    
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: PhD in Medical Science (Cell and molecular biology)
+      institution: Thammasat University
+      year: 2016
+    - course: MSc in Veterinary Medicine
+      institution: Chulalongkorn University
       year: 2008
+    - course: Bachelor of Veterinary Medicine
+      institution: Chulalongkorn University
+      year: 2005
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -45,16 +44,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: 'Kulisara_mar@cmru.ac.th'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://scholar.google.com/citations?user=576PVP8AAAAJ&hl=th
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -73,6 +66,6 @@ user_groups:
   - Researchers
 ---
 
-ไอ้พี่ปุ๊กกกก
+I am Dr. Kulisara Marupanthorn, a veterinarian and scientist specializing in stem cell research. I hold a Ph.D. in Medical Science with a focus on Cell and Molecular Biology (Stem cells) and have an extensive publication record in this field.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Currently, I serve as an Assistant Professor at Chiang Mai Rajabhat University. In this role, I share my expertise with students and conduct research on various topics related to animal health. My particular interest lies in the use of stem cells and medicinal plants to enhance animal health and welfare.
