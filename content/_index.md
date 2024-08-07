@@ -11,9 +11,8 @@ sections:
       image:
         filename: welcome.jpg
       text: |
-        <br>
-        
-    The Computational and Statistical Science Operations Center, established in 2024, is a research group focused on research, teaching, and practical applications in computational           statistical science. The center is currently located at the Faculty of Science and Technology, Rajamangala University of Technology Suvarnabhumi, Ayutthaya-Hantra Campus
+
+        The Computational and Statistical Science Operations Center, established in 2024, is a research group focused on research, teaching, and practical applications in computational           statistical science. The center is currently located at the Faculty of Science and Technology, Rajamangala University of Technology Suvarnabhumi, Ayutthaya-Hantra Campus
    
   - block: markdown
     content:
