@@ -19,13 +19,13 @@ sections:
       title:
       subtitle:
       text: |
-        Our laboratory is dedicated to advancing the field of Artificial Intelligence through cutting-edge research and practical applications. We focus on:
+        Our laboratory is dedicated to advancing the field of theoretical and applied statistics through cutting-edge research and practical applications. We focus on:
         - Asymptotic Statistics
         - Data Analysis and Machine Learning
         - Functional Data Analysis
         - Operational Research
 
-        We strive to foster a collaborative environment where researchers and students can innovate and excel in their respective areas of expertise.
+        We strive to foster a collaborative environment where researchers and students can innovate and excel in their respective areas of expertise, including:
         - Agriculture
         - Animal Science
         - Health Science
