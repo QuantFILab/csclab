@@ -40,6 +40,7 @@ sections:
       filters:
         folders:
           - publication
+              publication_type: 'article'
     design:
       view: citation
       columns: '1'
