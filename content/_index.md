@@ -25,12 +25,14 @@ sections:
         - Asymptotic Statistics
         - Data Analysis and Machine Learning
         - Functional Data Analysis
+        - Operational Research
 
         We strive to foster a collaborative environment where researchers and students can innovate and excel in their respective areas of expertise.
         - Agriculture
         - Animal Science
         - Health Science
         - Bussiness and Management
+        - Environment
 
   - block: collection
     content:
