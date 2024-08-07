@@ -37,10 +37,10 @@ education:
     - course: MSc in Mathematical Modelling
       institution: University of Birmingham
       year: 2019
-      - course: MSc in Mathematics
+    - course: MSc in Mathematics
       institution: Thammasat University
       year: 2017
-      - course: BSc Applied Mathematics with Physics
+    - course: BSc Applied Mathematics with Physics
       institution: Thammasat University
       year: 2014
 # Social/Academic Networking
