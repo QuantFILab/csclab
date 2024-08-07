@@ -28,7 +28,9 @@ abstract: Hydrated and granulated Moringa oleifera leaf are commercial productio
 summary: The first case is a low inventory cost that represents Moringa oleifera leaf powder production in Rajamangala University of Technology Suvarnabhumi, Ayutthaya campus. The second is a high inventory cost that mimics middle or large business management. The results showed that planning using the models reduced the overall production cost by 7.06% compared to unplanned production for the low investor cost and 14.30% for the high investor cost.
 
 tags:
-- Source Themes
+- Operational Research
+- Agriculture
+- Linear Programming
 featured: true
 
 # links:
