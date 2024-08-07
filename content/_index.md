@@ -38,7 +38,7 @@ sections:
       count: 6
       filters:
         folders:
-          - event
+          - publication
     design:
       view: article-grid
       columns: 3
