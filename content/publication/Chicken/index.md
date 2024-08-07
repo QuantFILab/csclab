@@ -29,7 +29,9 @@ abstract: The goal of this work was to comparative study of the production effic
 summary:
 
 tags:
-- Source Themes
+- Machine Learning
+- Poisson Regression
+- Agriculture
 featured: true
 
 # links:
