@@ -10,15 +10,14 @@ sections:
         Computational and Statistical Science Laboratory
       image:
         filename: welcome.jpg
-      text: |
-
-        The Computational and Statistical Science Operations Center, established in 2024, is a research group focused on research, teaching, and practical applications in computational           statistical science. The center is currently located at the Faculty of Science and Technology, Rajamangala University of Technology Suvarnabhumi, Ayutthaya-Hantra Campus
    
   - block: markdown
     content:
       title:
       subtitle:
       text: |
+        The Computational and Statistical Science Laboratory, established in 2024, is a research group focused on research, teaching, and practical applications in computational           statistical science. The center is currently located at the Faculty of Science and Technology, Rajamangala University of Technology Suvarnabhumi, Ayutthaya-Hantra Campus
+    
         Our laboratory is dedicated to advancing the field of theoretical and applied statistics through cutting-edge research and practical applications. We focus on:
         - Asymptotic Statistics
         - Data Analysis and Machine Learning
