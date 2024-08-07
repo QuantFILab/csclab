@@ -28,16 +28,21 @@ interests:
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-
+    - course: PhD in Actuarial Mathematics
+      institution: Heriot-Watt University
+      year: 2024
+    - course: MSc in Financial Engineering
+      institution: WorldQuant University
+      year: 2022
+    - course: MSc in Mathematical Modelling
+      institution: University of Birmingham
+      year: 2019
+      - course: MSc in Mathematics
+      institution: Thammasat University
+      year: 2017
+      - course: BSc Applied Mathematics with Physics
+      institution: Thammasat University
+      year: 2014
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -70,4 +75,4 @@ user_groups:
   - Researchers
 ---
 
-Pasin Marupanthorn is an applied mathematician specializing in actuarial and financial mathematics. His role at CSS is to provide the application of statistical methods in risk management and the business field. You can visit his personal website at (https://quantfilab.github.io/pmarupanthorn/)[https://quantfilab.github.io/pmarupanthorn/].
+Pasin Marupanthorn is an applied mathematician specializing in actuarial and financial mathematics. His role at CSS is to provide the application of statistical methods in risk management and the business field. You can visit his personal website at here)[https://quantfilab.github.io/pmarupanthorn/].
