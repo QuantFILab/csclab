@@ -29,7 +29,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://li01.tci-thaijo.org/index.php/sci_ubu/article/view/250966
+url_pdf: https://scholar.google.com/scholar?oi=bibs&cluster=11476611762890203962&btnI=1&hl=en
 url_code: ''
 url_dataset: ''
 url_poster: ''
