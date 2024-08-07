@@ -34,13 +34,13 @@ sections:
 
   - block: collection
     content:
-      title: Latest Publication
+      title: Latest Preprint
       text: ""
       count: 5
       filters:
         folders:
           - publication
-        publication_type: ['article-journals', 'conference-paper', 'article']
+        publication_type: ['article']
     design:
       view: citation
       columns: '1'
