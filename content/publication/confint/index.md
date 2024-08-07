@@ -23,7 +23,8 @@ abstract: This study aims to propose the confidence intervals of the location pa
 summary:
 
 tags:
-- Source Themes
+- Confidence Intervals
+- Censored Data
 featured: false
 
 # links:
