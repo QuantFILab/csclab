@@ -40,7 +40,7 @@ sections:
       filters:
         folders:
           - publication
-        publication_type: ['journal-article', 'conference-paper', 'book-chapter', 'report', 'other', 'article']
+        publication_type: ['article-journals', 'conference-paper', 'article']
     design:
       view: citation
       columns: '1'
