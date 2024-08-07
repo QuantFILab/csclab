@@ -22,9 +22,10 @@ bio: My research interests include Financial Mathematics and Actuarial Mathemtic
 
 interests:
   - Financial Mathematics 
-  - Actuarial Mathemtics
-  - Stochastic Processses
+  - Actuarial Mathematics
+  - Stochastic Processes
   - Monte Carlo Simulation
+  - Statistical Machine Learning
 
 education:
   courses:
