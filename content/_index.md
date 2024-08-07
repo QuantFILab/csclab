@@ -14,7 +14,7 @@ sections:
         <br>
 
           <span style="font-family: 'Chakra Petch', sans-serif;">
-          ศูนย์ปฎิบัติการวิทยาการการคำนวณและสถิติก่อตั้งขึ้นในปี พ.ศ. 2567 เป็นกลุ่มวิจัยที่เน้นการวิจัย การสอน และการปฎิบัติการทางด้าน วิทยาการการคำนวณเชิงสถิติ โดยปัจจุบันศูนย์ฎิบัติการตั้งอยู่ที่คณะวิทยาศาสตร์และเทคโนโลยี                 มหาวิทยาลัยเทคโนโลยีราชมงคลสุวรรณภูมิ วิทยาเขตพระนครศรีอยุธยา-หันตรา
+  The Computational and Statistical Science Operations Center, established in 2024, is a research group focused on research, teaching, and practical applications in computational statistical science. The center is currently located at the Faculty of Science and Technology, Rajamangala University of Technology Suvarnabhumi, Ayutthaya-Hantra Campus
    
   - block: markdown
     content:
