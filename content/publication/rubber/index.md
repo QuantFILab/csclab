@@ -23,7 +23,9 @@ abstract: The objectives of this research were to build time series forecasting 
 summary:
 
 tags:
-- Source Themes
+- Time Series
+- Forecasting
+- Agriculture
 featured: false
 
 # links:
