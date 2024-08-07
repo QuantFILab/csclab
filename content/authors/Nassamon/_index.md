@@ -28,7 +28,7 @@ interests:
 education:
   courses:
     - course: MSc in Applied Statistics
-      institution: Khon Khan University
+      institution: Khon Kaen University
       year: 2014
     - course: BSc in Statistics
       institution: Mahasarakham University
