@@ -32,7 +32,7 @@ sections:
   - block: collection
     content:
       title: Recent Publications
-      count: 10
+      count: 6
       filters:
         folders:
           - publication
