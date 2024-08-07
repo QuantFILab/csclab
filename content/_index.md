@@ -32,7 +32,7 @@ sections:
   - block: collection
     content:
       title: Recent Publications
-      count: 3
+      count: 0
       filters:
         folders:
           - publication
