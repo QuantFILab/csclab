@@ -29,7 +29,7 @@ summary: The first case is a low inventory cost that represents Moringa oleifera
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: ""
