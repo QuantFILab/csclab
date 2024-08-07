@@ -1,5 +1,5 @@
 ---
-title: Estishing Computational Statistical Science Laboratory
+title: Establishing Computational Statistical Science Laboratory
 date: 2024-07-01
 ---
 
