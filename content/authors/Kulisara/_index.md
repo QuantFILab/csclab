@@ -63,7 +63,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Animal Scinece
 ---
 
 I am Dr. Kulisara Marupanthorn, a veterinarian and scientist specializing in stem cell research. I hold a Ph.D. in Medical Science with a focus on Cell and Molecular Biology (Stem cells) and have an extensive publication record in this field.
